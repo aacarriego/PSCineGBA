@@ -1,0 +1,14 @@
+C:\Users\aacar\source\repos\PSCineGBA\Application\bin\Debug\net7.0\Application.exe
+C:\Users\aacar\source\repos\PSCineGBA\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\aacar\source\repos\PSCineGBA\Application\bin\Debug\net7.0\Application.runtimeconfig.json
+C:\Users\aacar\source\repos\PSCineGBA\Application\bin\Debug\net7.0\Application.dll
+C:\Users\aacar\source\repos\PSCineGBA\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\aacar\source\repos\PSCineGBA\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aacar\source\repos\PSCineGBA\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\aacar\source\repos\PSCineGBA\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\aacar\source\repos\PSCineGBA\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\aacar\source\repos\PSCineGBA\Application\obj\Debug\net7.0\Application.dll
+C:\Users\aacar\source\repos\PSCineGBA\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\aacar\source\repos\PSCineGBA\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\aacar\source\repos\PSCineGBA\Application\obj\Debug\net7.0\Application.genruntimeconfig.cache
+C:\Users\aacar\source\repos\PSCineGBA\Application\obj\Debug\net7.0\ref\Application.dll
