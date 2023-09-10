@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Infrastracture.Contextos
+namespace Infrastructure.Contextos
 {
     internal class CineDbContext: DbContext
     {

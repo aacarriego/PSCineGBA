@@ -3483,9 +3483,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aacar\\source\\repos\\PSCineGBA\\Infrastracture\\Infrastracture.csproj",
-      "projectName": "Infrastracture",
-      "projectPath": "C:\\Users\\aacar\\source\\repos\\PSCineGBA\\Infrastracture\\Infrastracture.csproj",
+      "projectUniqueName": "C:\\Users\\aacar\\source\\repos\\PSCineGBA\\Infrastracture\\Infrastructure.csproj",
+      "projectName": "Infrastructure",
+      "projectPath": "C:\\Users\\aacar\\source\\repos\\PSCineGBA\\Infrastracture\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\aacar\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\aacar\\source\\repos\\PSCineGBA\\Infrastracture\\obj\\",
       "projectStyle": "PackageReference",

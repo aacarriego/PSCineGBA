@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MnoVeneRhILo0NgEc6ymhBsJw9Ou+ZxBw3PNHiWzs6QFNqAjpWhExuf86OFdLotoJuOPHbCMNAIfPvq21hmBFQ==",
+  "dgSpecHash": "wD/0JeYjjtKwsdl0cW7xLUlzcELUe4iUAwVuOlIrc6E9BxUzJvCy4JP9VPYAyUkhrtL/Jnuf+ondaOWeKYTvXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aacar\\source\\repos\\PSCineGBA\\Infrastracture\\Infrastracture.csproj",
+  "projectFilePath": "C:\\Users\\aacar\\source\\repos\\PSCineGBA\\Infrastracture\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aacar\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\aacar\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
