@@ -221,7 +221,7 @@ namespace Infrastructure.Migrations
                 table: "Peliculas",
                 columns: new[] { "Titulo", "Sinopsis", "Poster", "Trailer", "GeneroId" },
                 values: new object[] { "Indiana Jones y la ultima cruzada",
-                                        "En esta tercera entrega, el padre del protagonista (Harrison Ford), Henry Jones, también arqueólogo (Sean Connery), es secuestrado cuando buscaba el Santo Grial. Indiana tendrá que ir a rescatarlo y, de paso, intentar hacerse con la preciada reliquia, que también ambicionan los nazis." ,
+                                        "El arqueólogo Indiana Jones y su padre se unen en una aventura para encontrar el Santo Grial antes que los nazis, enfrentando peligros, traiciones y revelaciones familiares.",
                                         "https://pics.filmaffinity.com/indiana_jones_and_the_last_crusade-834556032-large.jpg",
                                         "https://www.youtube.com/watch?v=DKg36LBVgfg",
                                         2 });
@@ -229,7 +229,7 @@ namespace Infrastructure.Migrations
                 table: "Peliculas",
                 columns: new[] { "Titulo", "Sinopsis", "Poster", "Trailer", "GeneroId" },
                 values: new object[] { "The Goonies",
-                                        "Mikey es un niño de trece años que junto con su hermano mayor y sus amigos forman un grupo que se hacen llamar \"los Goonies\". Un día deciden subir al desván de su casa, donde su padre guarda antigüedades. Allí encuentran el mapa de un tesoro perdido que data del siglo XVII, de la época de los piratas, y deciden salir a buscarlo repletos de espíritu aventurero. " ,
+                                        "Un grupo de niños busca un tesoro pirata para salvar sus hogares de ser demolidos, enfrentando trampas mortales y una banda de criminales en una emocionante aventura llena de amistad y valentía." ,
                                         "https://pics.filmaffinity.com/the_goonies-301424062-large.jpg",
                                         "https://www.youtube.com/watch?v=lYLAGAwcpSQ",
                                         2 });
