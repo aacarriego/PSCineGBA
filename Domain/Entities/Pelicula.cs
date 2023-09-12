@@ -1,16 +1,13 @@
 ﻿using Domain.Entities.Domain.Entities;
-using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Domain.Entities
 {
     public class Pelicula
     {
         // PK
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int PeliculaId { get; set; }
 
         // FK

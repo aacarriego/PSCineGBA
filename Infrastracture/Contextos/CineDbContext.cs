@@ -1,15 +1,11 @@
 ﻿using Domain.Entities.Domain.Entities;
 using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Infrastructure.Contextos
 {
     internal class CineDbContext : DbContext
+
     {
         // Set de tablas
         public DbSet<Sala> Salas { get; set; }
@@ -51,9 +47,7 @@ namespace Infrastructure.Contextos
                 .HasForeignKey(t => t.FuncionId);
         }
 
-
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Server=LAPTOP-N8FS7SBV;Database=CineDataBase;Trusted_Connection=True;TrustServerCertificate=True");
         }
