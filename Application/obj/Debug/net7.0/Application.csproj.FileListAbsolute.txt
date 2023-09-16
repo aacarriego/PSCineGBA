@@ -12,3 +12,10 @@ C:\Users\aacar\source\repos\PSCineGBA\Application\obj\Debug\net7.0\refint\Applic
 C:\Users\aacar\source\repos\PSCineGBA\Application\obj\Debug\net7.0\Application.pdb
 C:\Users\aacar\source\repos\PSCineGBA\Application\obj\Debug\net7.0\Application.genruntimeconfig.cache
 C:\Users\aacar\source\repos\PSCineGBA\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\aacar\source\repos\PSCineGBA\Application\bin\Debug\net7.0\Domain.deps.json
+C:\Users\aacar\source\repos\PSCineGBA\Application\bin\Debug\net7.0\Domain.runtimeconfig.json
+C:\Users\aacar\source\repos\PSCineGBA\Application\bin\Debug\net7.0\Domain.exe
+C:\Users\aacar\source\repos\PSCineGBA\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\aacar\source\repos\PSCineGBA\Application\bin\Debug\net7.0\Domain.pdb
+C:\Users\aacar\source\repos\PSCineGBA\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\aacar\source\repos\PSCineGBA\Application\obj\Debug\net7.0\Application.csproj.CopyComplete

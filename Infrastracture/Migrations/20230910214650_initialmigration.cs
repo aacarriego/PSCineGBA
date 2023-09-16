@@ -196,7 +196,7 @@ namespace Infrastructure.Migrations
             migrationBuilder.InsertData(
                 table: "Salas",
                 columns: new[] { "Nombre", "Capacidad" },
-                values: new object[] { "Sala 2", 35 });
+                values: new object[] { "Sala 3", 35 });
 
             // Add pelicula 
 
@@ -368,6 +368,8 @@ namespace Infrastructure.Migrations
                                         "https://pics.filmaffinity.com/the_blair_witch_project-169732125-large.jpg",
                                         "https://www.youtube.com/watch?v=tRsYzxjLmm0",
                                         10 });
+
+       
 
         }
 

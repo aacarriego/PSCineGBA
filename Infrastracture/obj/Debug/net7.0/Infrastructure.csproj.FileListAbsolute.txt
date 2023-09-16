@@ -71,3 +71,8 @@ C:\Users\aacar\source\repos\PSCineGBA\Infrastracture\obj\Debug\net7.0\refint\Inf
 C:\Users\aacar\source\repos\PSCineGBA\Infrastracture\obj\Debug\net7.0\Infrastructure.pdb
 C:\Users\aacar\source\repos\PSCineGBA\Infrastracture\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
 C:\Users\aacar\source\repos\PSCineGBA\Infrastracture\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\aacar\source\repos\PSCineGBA\Infrastracture\bin\Debug\net7.0\Application.deps.json
+C:\Users\aacar\source\repos\PSCineGBA\Infrastracture\bin\Debug\net7.0\Application.runtimeconfig.json
+C:\Users\aacar\source\repos\PSCineGBA\Infrastracture\bin\Debug\net7.0\Application.exe
+C:\Users\aacar\source\repos\PSCineGBA\Infrastracture\bin\Debug\net7.0\Application.dll
+C:\Users\aacar\source\repos\PSCineGBA\Infrastracture\bin\Debug\net7.0\Application.pdb
